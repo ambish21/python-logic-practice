@@ -1,41 +1,83 @@
 # python-logic-practiceupdate
-# 🧠 Python Logic Practice Journey
+# 🧠 Python Logic Practice Roadmap
 
-## 🚀 My Learning Workflow
+## 🚀 My Learning Flow (Step-by-Step)
 
-I am improving my programming logic step by step.
-Here is my daily practice roadmap:
+Variables → Operators → Conditions → Loops → Functions → DS → Practice → Projects
 
-### 1️⃣ Variables
+### 1️⃣ Variables & Data Types
 
-* Understanding data types (int, float, string)
-* Storing and updating values
-* Basic input/output
+* int, float, string, boolean
+* input/output
+* basic operations
 
-### 2️⃣ Conditions (if-else)
+### 2️⃣ Operators
 
-* Making decisions using `if`, `elif`, `else`
-* Comparison operators (>, <, ==)
-* Logical operators (and, or)
+* Arithmetic (+, -, *, /)
+* Comparison (>, <, ==)
+* Logical (and, or, not)
 
-### 3️⃣ Sequence (Step-by-step execution)
+### 3️⃣ Conditions (Decision Making)
 
-* Understanding how code runs line by line
-* Writing structured programs
-* Practicing simple problem solving
+* if, elif, else
+* nested conditions
+* real-life decision problems
+
+### 4️⃣ Loops (Repetition)
+
+* for loop
+* while loop
+* loop control (break, continue)
+
+### 5️⃣ Sequence & Logic Building
+
+* Step-by-step problem solving
+* understanding code flow
+* dry run practice
+
+### 6️⃣ Functions
+
+* defining functions
+* parameters & return values
+* code reuse
+
+### 7️⃣ Data Structures
+
+* Lists
+* Tuples
+* Dictionaries
+* Sets
+
+### 8️⃣ String Handling
+
+* string methods
+* slicing
+* formatting
+
+### 9️⃣ Problem Solving Practice
+
+* basic logic problems
+* pattern problems
+* small challenges
+
+### 🔟 Mini Projects
+
+* calculator
+* number guessing game
+* simple apps
 
 ---
 
-## 📅 Daily Goal
+## 📅 Daily Routine
 
-* Solve at least **1 problem daily**
+* Practice at least 1 concept
+* Solve 1–2 problems
 * Push code to GitHub
-* Improve logic step by step
 
 ---
 
-## 💡 My Focus
+## 🎯 Goal
 
-* Strong programming basics
-* Clean and readable code
-* Consistency over perfection 🚀
+* Strong logic building
+* Consistency
+* Becoming confident in coding 🚀
