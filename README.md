@@ -81,3 +81,5 @@ Variables → Operators → Conditions → Loops → Functions → DS → Practi
 * Strong logic building
 * Consistency
 * Becoming confident in coding 🚀
+Day 03: Added for loop practice
+
