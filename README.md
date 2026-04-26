@@ -3,7 +3,7 @@
 
 ## 🚀 My Learning Flow (Step-by-Step)
 
-Variables → Operators → Conditions → Loops → Functions → DS → Practice → Projects
+Variables →  Loops → Functions  → Conditions → →Operators→ DS → Practice → Projects
 
 ### 1️⃣ Variables & Data Types
 
@@ -81,5 +81,3 @@ Variables → Operators → Conditions → Loops → Functions → DS → Practi
 * Strong logic building
 * Consistency
 * Becoming confident in coding 🚀
-Day 03: Added for loop practice
-
