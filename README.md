@@ -82,5 +82,5 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 ## 🎯 Goal
 
 * Strong logic building
-* Consistency
+* Consistency.
 * Becoming confident in coding 🚀
