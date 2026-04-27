@@ -7,7 +7,10 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ### 1️⃣ Variables & Data Types
 
-* int, float, string, boolean
+* int
+ float
+  string
+   boolean
 * input/output
 * basic operations
 
@@ -19,7 +22,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ### 3️⃣ Conditions (Decision Making)
 
-* if, elif, else
+* if, elif, else       (done) 
 * nested conditions
 * real-life decision problems
 
