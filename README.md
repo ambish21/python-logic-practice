@@ -65,7 +65,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ### 🔟 Mini Projects
 
-* calculator
+* calculator (done)
 * number guessing game
 * simple apps
 
