@@ -16,7 +16,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ### 2️⃣ Operators
 
-* Arithmetic (+, -, *, /)
+* Arithmetic (+, -, *, /)    (done)
 * Comparison (>, <, ==)
 * Logical (and, or, not)
 
@@ -35,7 +35,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 ### 5️⃣ Sequence & Logic Building
 
 * Step-by-step problem solving
-* understanding code flow
+* understanding code flow 
 * dry run practice
 
 ### 6️⃣ Functions
