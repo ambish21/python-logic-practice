@@ -20,9 +20,8 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 * Comparison (>, <, ==)
 * Logical (and, or, not)
 
-### 3️⃣ Conditions (Decision Making)
-
-* if, elif, else       (done) 
+### 3️⃣ Conditions (Decision Making)  
+* if, elif, else       
 * nested conditions
 * real-life decision problems
 
