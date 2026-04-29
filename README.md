@@ -28,7 +28,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ### 4️⃣ Loops (Repetition)
 
-* for loop
+* for loop (done)
 * while loop
 * loop control (break, continue)
 
@@ -40,7 +40,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ### 6️⃣ Functions
 
-* defining functions
+* defining functions  (done)
 * parameters & return values
 * code reuse
 
