@@ -22,7 +22,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ### 3️⃣ Conditions (Decision Making)  
 * if, elif, else       
-* nested conditions
+* nested condition (done)
 * real-life decision problems
 
 ### 4️⃣ Loops (Repetition)
