@@ -21,7 +21,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 * Logical (and, or, not)
 
 ### 3️⃣ Conditions (Decision Making)  
-* if, elif, else       
+* if, elif, else     (done)  
 * nested condition (done)
 * real-life decision problems
 
