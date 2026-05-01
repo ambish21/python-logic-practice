@@ -66,7 +66,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 * calculator (done)
 * number guessing game
-* simple apps
+* simple apps done(done)
 
 ---
 
