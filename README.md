@@ -11,7 +11,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
  float
   string
    boolean
-* input/output
+* input/output     (done)
 * basic operations (done)
 
 ### 2️⃣ Operators
