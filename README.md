@@ -11,13 +11,13 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
  float               (done)
   string             (done)
    boolean           (done)
-* input/output       (done)
-* basic operations   (done)
+* input/output        (done)
+* basic operations    (done)
 
 ### 2️⃣ Operators
 
-* Arithmetic (+, -, *, /)    (done)
-* Comparison (>, <, ==)
+* Arithmetic (+, -, *, /)     (done)
+* Comparison (>, <, ==)       (done)
 * Logical (and, or, not)
 
 ### 3️⃣ Conditions (Decision Making)  
