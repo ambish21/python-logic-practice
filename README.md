@@ -7,12 +7,12 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ### 1️⃣ Variables & Data Types
 
-* int
- float
-  string
-   boolean
-* input/output     (done)
-* basic operations (done)
+* int                (done)
+ float               (done)
+  string             (done)
+   boolean           (done)
+* input/output       (done)
+* basic operations   (done)
 
 ### 2️⃣ Operators
 
