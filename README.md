@@ -7,22 +7,22 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ### 1️⃣ Variables & Data Types
 
-* int                (done)
- float               (done)
-  string             (done)
-   boolean           (done)
-* input/output        (done)
-* basic operations    (done)
+* int                                             (done)
+ float                                            (done)
+  string                                          (done)
+   boolean                                        (done)
+* input/output                                    (done)
+* basic operations                                (done)
 
 ### 2️⃣ Operators
 
-* Arithmetic (+, -, *, /)     (done)
-* Comparison (>, <, ==)       (done)
+* Arithmetic (+, -, *, /)                         (done)
+* Comparison (>, <, ==)                           (done)
 * Logical (and, or, not)
 
 ### 3️⃣ Conditions (Decision Making)  
-* if, elif, else     (done)  
-* nested condition (done)
+* if, elif, else                                  (done)  
+* nested condition                                (done)
 * real-life decision problems
 
 ### 4️⃣ Loops (Repetition)
