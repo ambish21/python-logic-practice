@@ -18,7 +18,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 * Arithmetic (+, -, *, /)                         (done)
 * Comparison (>, <, ==)                           (done)
-* Logical (and, or, not)
+* Logical (and, or, not)                          (done)
 
 ### 3️⃣ Conditions (Decision Making)  
 * if, elif, else                                  (done)  
