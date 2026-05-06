@@ -27,7 +27,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ### 4️⃣ Loops (Repetition)
 
-* for loop (done)
+* for loop                                        (done)
 * while loop
 * loop control (break, continue)
 
