@@ -28,7 +28,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 ### 4️⃣ Loops (Repetition)
 
 * for loop                                        (done)
-* while loop
+* while loop                                      (done)
 * loop control (break, continue)
 
 ### 5️⃣ Sequence & Logic Building
