@@ -23,7 +23,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 ### 3️⃣ Conditions (Decision Making)  
 * if, elif, else                                  (done)  
 * nested condition                                (done)
-* real-life decision problems
+
 
 ### 4️⃣ Loops (Repetition)
 
@@ -39,7 +39,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ### 6️⃣ Functions
 
-* defining functions  (done)
+* defining functions                               (done)
 * parameters & return values
 * code reuse
 
@@ -63,9 +63,9 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 * small challenges
 
 ### 🔟 Mini Projects
-* calculator                (done)
-* number guessing game      (done)
-* simple apps               (done)
+* calculator                                      (done)
+* number guessing game                            (done)
+* simple apps                                     (done)
 
 ---
 
