@@ -20,6 +20,7 @@ student["age"] = 21
 
 print("Updated Dictionary:", student)
 
+
 # loop through dictionary
 print("Dictionary Data:")
 for key, value in student.items():
