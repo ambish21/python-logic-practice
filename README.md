@@ -46,8 +46,8 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 ### 7️⃣ Data Structures
 
 * Lists                                            (done)
-* Tuples                                          (done)
-* Dictionaries
+* Tuples                                           (done)
+* Dictionaries                                     (done)
 * Sets
 
 ### 8️⃣ String Handling
