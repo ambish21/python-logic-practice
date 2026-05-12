@@ -54,8 +54,8 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 * string methods                                   (done)
 * slicing                                          (done)
-* formatting
-
+* formatting                                       (done)
+              
 ### 9️⃣ Problem Solving Practice
 
 * basic logic problems.           (done)
