@@ -52,8 +52,8 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ### 8️⃣ String Handling
 
-* string methods                                   (Done)
-* slicing        
+* string methods                                   (done)
+* slicing                                          (done)
 * formatting
 
 ### 9️⃣ Problem Solving Practice
