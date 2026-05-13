@@ -40,7 +40,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 ### 6️⃣ Functions
 
 * defining functions                               (done)
-* parameters & return values
+* parameters & return values                       (done)
 * code reuse
 
 ### 7️⃣ Data Structures
