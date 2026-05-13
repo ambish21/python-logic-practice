@@ -58,7 +58,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
               
 ### 9️⃣ Problem Solving Practice
 
-* basic logic problems.           (done)
+* basic logic problems.                             (done)
 * pattern problems
 * small challenges
 
