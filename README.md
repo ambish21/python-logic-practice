@@ -34,7 +34,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 ### 5️⃣ Sequence & Logic Building
 * Step-by-step problem solving                    (done)
 * understanding code flow                         (done)
-* dry run practice
+* dry run practice                                (done)
 
 ### 6️⃣ Functions
 
