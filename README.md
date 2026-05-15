@@ -48,7 +48,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 * Lists                                            (done)
 * Tuples                                           (done)
 * Dictionaries                                     (done)
-* Sets                                            (done)
+* Sets                                             (done)
 
 ### 8️⃣ String Handling
 
