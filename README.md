@@ -32,7 +32,6 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 * loop control (break, continue)                  (done)
 
 ### 5️⃣ Sequence & Logic Building
-
 * Step-by-step problem solving
 * understanding code flow 
 * dry run practice
