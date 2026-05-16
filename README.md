@@ -59,7 +59,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 * basic logic problems.                             (done)
 * pattern problems                                  (done)
-* small challenges
+* small challenges                                  (done)
 
 ### 🔟 Mini Projects
 * calculator                                      (done)
