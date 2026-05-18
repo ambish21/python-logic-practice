@@ -1,5 +1,5 @@
 # python-logic-practiceupdate
-# 🧠 Python Logic Practice Roadmap
+# 🧠 Python Logic Practice Road map
 
 ## 🚀 My Learning Flow (Step-by-Step)
 
@@ -38,7 +38,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ### 6️⃣ Functions
 
-* defining functions                                (done)
+* defining functions                               (done)
 * parameters & return values                        (done)
 * code reuse                                        (done)
 
