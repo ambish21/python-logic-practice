@@ -39,8 +39,8 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 ### 6️⃣ Functions
 
 * defining functions                               (done)
-* parameters & return values                        (done)
-* code reuse                                        (done)
+* parameters & return values                       (done)
+* code reuse                                       (done)
 
 ### 7️⃣ Data Structures
 
@@ -62,9 +62,9 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 * small challenges                                  (done)
 
 ### 🔟 Mini Projects
-* calculator                                      (done)
-* number guessing game                            (done)
-* simple apps                                     (done)
+* calculator                                        (done)
+* number guessing game                              (done)
+* simple apps                                       (done)
 
 ---
 
