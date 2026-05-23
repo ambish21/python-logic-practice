@@ -70,7 +70,7 @@ Variables →  Loops → Functions  → Conditions → →Operators→ DS → Pr
 
 ## 📅 Daily Routine
 
-* Practice at least 1 concept
+* Practice at least 1 concept                  (done)
 * Solve 1–2 problems
 * Push code to GitHub
 
